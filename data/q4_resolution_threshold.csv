@@ -1,0 +1,8 @@
+scheme,min_N_for_L1<=1e-3
+UW1,>4096
+UW2,>4096
+UW3,2560
+DRP,992
+DRP-M,800
+MDCD,896
+SA-DRP,576
